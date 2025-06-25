@@ -1,0 +1,41 @@
+div{
+ height: 100px;
+ width: 200px;
+ border: 1px solid black;
+ padding: 50px;
+ margin-top: 10px;
+ margin: 50px;
+ display:inline-block;
+ background-color: blue;   
+ background-image:url(/image/pc\ img.jpeg);
+}
+span{
+    background-color: aquamarine;
+    display:block;
+}
+#box2{
+   visibility: hidden;
+   display: none;
+}
+#box1{
+   
+    position: relative;
+    top: 30px;
+     z-index: 2;
+}
+#box3{
+    position:absolute;
+top:50px;
+right: 50px
+
+
+}
+#box4{
+    position:fixed;
+    top:0%
+}
+#box5{
+    position: sticky;
+    top:0%;
+   
+}

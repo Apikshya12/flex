@@ -1,0 +1,40 @@
+div{
+ height: 50px;
+ width: 50px;
+ border: 1px solid black;
+ padding: 50px;
+ margin-top: 10px;
+ margin:15px;
+border-radius: 10px;
+ display:inline-block;
+ background-color: rgb(88, 88, 206);   
+ text-align: center;
+
+
+}
+.container{
+    width:1200px;
+    height:300px;
+    background-color: rgb(143, 21, 21);
+    display:flex;
+    flex-direction: column;
+    border-radius: 5px;
+    flex-wrap: wrap-reverse;
+    justify-content:baseline;
+    align-items:center;
+}
+#product1{
+    background-color: aqua;
+}
+#product2{
+    background-color: aquamarine;
+}
+#product3{
+    background-color: brown;
+}
+#product4{
+    background-color: beige;
+}
+#product5{
+    background-color: blue;
+}

@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: overline dashed blue;
+    letter-spacing: 30px;
+    text-shadow: 2px 2px 5px purple;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+p{
+    color:purple;
+    text-align: justify;
+    text-transform: capitalize;
+    
+    text-indent: 50px;
+    word-spacing: 20px;
+    font-weight: bold;
+    font-variant: small-caps;
+    background-color: aquasd;
+    font-size: 3vw;
+    font-family: Tangerine;
+    cursor: wait;
+
+}
+.hello{
+
+}
+a{
+    text-decoration: aqua;
+}
+a:hover{
+    color:brown;
+    background-color: blueviolet;
+}
+a:visited{
+background-color: brown;
+}
+a:active{
+background-color: aquamarine;
+}
+body{
+ background-image: url(/image/download\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

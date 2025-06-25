@@ -1,0 +1,51 @@
+h1{
+    color:aqua;
+}
+#headings{
+  
+   
+
+}
+.head{
+    color:aqua
+}
+#head2{
+    background-color: blue;
+    border: 2px solid #000000;
+}
+p{
+    background-color: rgb(136, 196, 33);
+    border: 1px rgb(209, 42, 42) solid;
+    opacity: 0.9;
+}
+body{
+    background-image:url(/download.jpeg)
+    
+}
+body{
+    background-image: url(/download\ \(6\).jpeg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-attachment: scroll;
+    background-size:cover ;
+    background-size: 250px 400p;
+}
+
+div{
+    border-style: solid dashed double;
+    top right bottom left;
+    border-width:50px;
+    height: 500p;
+    border-radius: 5%;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 100px;
+margin-left: 100px;
+}
+p{
+    margin: inherit;
+}
+h1{
+    padding-left: 20px;
+}
+
